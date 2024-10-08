@@ -1,0 +1,15 @@
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\bin\Debug\net8.0\ChallengeProject1.exe
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\bin\Debug\net8.0\ChallengeProject1.deps.json
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\bin\Debug\net8.0\ChallengeProject1.runtimeconfig.json
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\bin\Debug\net8.0\ChallengeProject1.dll
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\bin\Debug\net8.0\ChallengeProject1.pdb
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.AssemblyInfoInputs.cache
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.AssemblyInfo.cs
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.csproj.CoreCompileInputs.cache
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.sourcelink.json
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.dll
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\refint\ChallengeProject1.dll
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.pdb
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ChallengeProject1.genruntimeconfig.cache
+C:\Users\semua\OneDrive\Desktop\code\csharp\ChallengeProject1\obj\Debug\net8.0\ref\ChallengeProject1.dll
